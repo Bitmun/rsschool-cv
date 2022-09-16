@@ -29,7 +29,7 @@ function countSheeps(arrayOfSheep) {
 ```
 ***
 ### Languages: ###
-* ## Russian: Native ##
-* ## English: Intermediate ##
+* **Russian: Native**
+* **English: Intermediate**
 
 
