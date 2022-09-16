@@ -7,7 +7,7 @@
 * **Discord:** BITmun9 (@bitmun)
 ***
 ### About myself: ###
-Born in Brest, Belarus, 18 years old. I started studying programming at the university in my first year. No experience in IT yet.
+Born in Brest, Belarus, 18 years old. I started studying programming at the university in my first year. No experience in IT yet. Seriously determined to learn IT and become a Frontend developer. 
 ***
 ### Skills and Proficiency: ###
 * **HTML, CSS3**
@@ -27,4 +27,9 @@ function countSheeps(arrayOfSheep) {
   return temp;
 }
 ```
+***
+### Languages: ###
+* ## Russian: Native ##
+* ## English: Intermediate ##
+
 
